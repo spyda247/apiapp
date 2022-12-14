@@ -1,0 +1,10 @@
+.wrapper {
+  padding: 15px;
+}
+button, input {
+  background: none;
+  border: 1px solid #eee;
+  padding: 10px;
+  color: #eee;
+}
+
